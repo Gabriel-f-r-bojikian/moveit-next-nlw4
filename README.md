@@ -13,14 +13,8 @@ as a way to teach technologies like React, Next.js, *etc*.
 
 # Project Status
 
-In development, as NLW4 progresses...
-
-# Dependencies
-
-- Next.js v10.0.7
-- React v17.0.1
-- React-dom v17.0.1
-- TypeScript v4.1.5
+Finished alongside the event, but learning is continuous
+and new features may be added in the future!
 
 # Technologies used in this project
 - [React](https://nodejs.org/en/)
@@ -28,7 +22,12 @@ In development, as NLW4 progresses...
 - [Next.js](https://nextjs.org/)
 
 # How to run this application
-Just clone this repository and run "npm run dev".
+To run this repository, clone it in any directory of your
+choosing and then run the following commands:
+```bash
+npm install
+npm run dev
+```
 
 # Authors and acknowledgment
 The code for this application was made by Diego Fernandes, Rocketseat's CTO.
