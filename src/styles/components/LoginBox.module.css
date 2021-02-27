@@ -49,6 +49,7 @@
   color: var(--gray-line);
 
   height: 4rem;
+  padding-left: 1rem;
 }
 
 .userNameInputField button {
